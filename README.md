@@ -29,3 +29,6 @@ Elektrikli Araç Şarj İstasyonu Haritası için ana özellikler (features):
 ⚙️ Kişiselleştirme – Sık kullanılan istasyonları favorilere ekleme, tercihlere göre öneriler alma.
 
 Bu özellikler, kullanıcıların elektrikli araçlarını daha kolay ve verimli bir şekilde şarj etmelerine yardımcı olacak kapsamlı bir sistem oluşturur. 🚀
+
+
+BU PROJE RASPBRY PI'LARI CLUSTER HALE GETİRİREREK AYAĞA KALDIRMA FİKRİ VAR.
