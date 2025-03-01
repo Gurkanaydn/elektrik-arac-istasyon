@@ -32,3 +32,7 @@ Bu özellikler, kullanıcıların elektrikli araçlarını daha kolay ve verimli
 
 
 BU PROJE RASPBRY PI'LARI CLUSTER HALE GETİRİREREK AYAĞA KALDIRMA FİKRİ VAR.
+
+####### ------------- ###########
+
+Sahibinden bölge seçsin o bölgeye ait şehirler seçilsin bunu extension olarak yap
